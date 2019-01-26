@@ -1,0 +1,14 @@
+{
+  "name": "apikachyz",
+  "version": "1.0.0",
+  "description": "Ejercicio de APIs",
+  "main": "ejemplo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kachyz",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
